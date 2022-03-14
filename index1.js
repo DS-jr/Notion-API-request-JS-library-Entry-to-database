@@ -27,4 +27,4 @@ async function addItem(text) {
   }
 }
 
-addItem("(Theodore Roosevelt) Do what you CAN, w/ what you HAVE, WHERE you are.")
+addItem("(Theodore Roosevelt) 'Do what you CAN, with what you HAVE, WHERE you are.'")
